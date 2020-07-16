@@ -1,5 +1,5 @@
 # Projects
-Customer Churn - Churn Prediction model
+# Customer Churn - Churn Prediction model
 
 # Description
 
